@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "over and over",
+  "base_artist": "井口裕香",
+  "createdAt": "2026-02-16T17:34:34.289286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hand Over Mouth, Over and Over",
+      "artist": "A Lot Like Birds",
+      "has_synced": true,
+      "path": "select/01_Hand_Over_Mouth,_Over_and_Over_A_Lot_Like_Birds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Over And Over",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Over_And_Over_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over And Over",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/03_Over_And_Over_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over And Over",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/04_Over_And_Over_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over and Over (Maurice Fulton Remix)",
+      "artist": "Hot Chip",
+      "has_synced": false,
+      "path": "select/05_Over_and_Over_(Maurice_Fulton_Remix)_Hot_Chip.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/06_Over_and_Over_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over and Over - 2009 Remaster",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/07_Over_and_Over_-_2009_Remaster_Chicago.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Apparat",
+      "has_synced": true,
+      "path": "select/08_Over_and_Over_Apparat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Olivia Broadfield",
+      "has_synced": true,
+      "path": "select/09_Over_and_Over_Olivia_Broadfield.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over And Over Again (Lost And Found)",
+      "artist": "Clap Your Hands Say Yeah",
+      "has_synced": true,
+      "path": "select/10_Over_And_Over_Again_(Lost_And_Found)_Clap_Your_Hands_Say_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over And Over",
+      "artist": "Wilson Phillips",
+      "has_synced": true,
+      "path": "select/11_Over_And_Over_Wilson_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Angel",
+      "has_synced": false,
+      "path": "select/12_Over_and_Over_Angel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/13_Over_and_Over_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Hot Chip",
+      "has_synced": true,
+      "path": "select/14_Over_and_Over_Hot_Chip.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Over and Over",
+      "artist": "Rage",
+      "has_synced": true,
+      "path": "select/15_Over_and_Over_Rage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "over and over",
+      "artist": "井口裕香",
+      "has_synced": false,
+      "path": "select/pl_01_over_and_over_井口裕香.txt"
+    }
+  ]
+}
